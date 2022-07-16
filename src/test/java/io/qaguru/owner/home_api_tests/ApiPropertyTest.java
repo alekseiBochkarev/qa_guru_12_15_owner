@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class PropertyTest {
+public class ApiPropertyTest {
     @Test
     @DisplayName("check params with property")
     void checkParamsWithProperty () {
